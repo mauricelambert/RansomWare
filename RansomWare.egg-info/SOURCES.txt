@@ -1,0 +1,15 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+RansomWare/RansomWare.py
+RansomWare/__init__.py
+RansomWare/__main__.py
+RansomWare.egg-info/PKG-INFO
+RansomWare.egg-info/SOURCES.txt
+RansomWare.egg-info/dependency_links.txt
+RansomWare.egg-info/entry_points.txt
+RansomWare.egg-info/top_level.txt
+save/RansomWare.py
+save/__init__.py
+save/__main__.py

@@ -1,0 +1,3 @@
+[console_scripts]
+RansomWare = RansomWare:cryptolocker
+
