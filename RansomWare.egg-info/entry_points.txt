@@ -1,3 +1,2 @@
 [console_scripts]
-RansomWare = RansomWare:cryptolocker
-
+RansomWare = RansomWare:main
